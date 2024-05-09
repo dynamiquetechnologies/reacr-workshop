@@ -7,9 +7,9 @@
   ## Workshop Outline:
 
   - Introduction:
-  <br/>
     Kick-off your React adventure by understanding the workshop's structure, objectives, and the exciting journey ahead.
-
+ <br/>
+ 
   - What is React: 
   <br/>
     Delve into the origins of React, its core philosophies, and why it has become a cornerstone technology in modern web development.
