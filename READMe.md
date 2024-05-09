@@ -53,7 +53,7 @@
   ### Get started
   - Clone the repo
     ```
-    git clone [https://github.com/your-username/your-project-name.git](https://github.com/dynamiquetechnologies/react-workshop.git)
+    git clone https://github.com/dynamiquetechnologies/react-workshop.git
     
     cd react-workshop
     ```
