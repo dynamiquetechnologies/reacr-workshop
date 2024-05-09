@@ -10,36 +10,28 @@
     Kick-off your React adventure by understanding the workshop's structure, objectives, and the exciting journey ahead.
  <br/>
  
-  - What is React: 
-  <br/>
+  - What is [React](https://react.dev/):
     Delve into the origins of React, its core philosophies, and why it has become a cornerstone technology in modern web development.
 
-  - Thinking In React: 
-  <br/>
+  - [Thinking In React](https://react.dev/learn/thinking-in-react): 
     Learn the React way of thinking by dissecting how to approach web application development modular and declaratively, setting the foundation for efficient and scalable apps.
 
   - Todo List Project Setup: 
-  <br/>
     Roll up your sleeves as you set up your first React project—a Todo List application. This hands-on approach will introduce you to the practical aspects of React development from the get-go.
 
   - JSX: 
-  <br/>
     Dive into JSX, the syntax extension for JavaScript, that allows you to write HTML in your React code. Understand how it makes developing user interfaces more intuitive and maintainable.
 
   - React State: 
-  <br/>
     Master the concept of state in React, learning how to manage and update your application's dynamic data effectively to create interactive and responsive user experiences.
 
   - Todos Logic: 
-  <br/>
     Apply your knowledge by adding logic to your Todo List application. This will involve managing tasks—adding, completing, and deleting them—using the state you've learned to manage.
 
   - Break App Into Components: 
-  <br/>
     Discover the power of React components. Learn how to break down your application into smaller, reusable components, enhancing your app's maintainability and scalability.
 
   - useEffect Hook: 
-  <br/>
     Explore the useEffect Hook, understanding how to perform side effects in your application, such as fetching data or directly interacting with the DOM, in a React way.
 
   ## Who Should Attend?
