@@ -53,9 +53,9 @@
   ### Get started
   - Clone the repo
     ```
-    git clone https://github.com/your-username/your-project-name.git
+    git clone [https://github.com/your-username/your-project-name.git](https://github.com/dynamiquetechnologies/react-workshop.git)
     
-    cd your-project-name
+    cd react-workshop
     ```
 
   - Install dependencies:
